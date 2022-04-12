@@ -23,7 +23,7 @@ My career ambition has always been to firstly take technology to its limits, and
 - [Email](mailto:okechukwu0127@gmail.com)
 
 
-📫 Contributions: 
+💎 Contributions: 
 - [React-native-Paystack](https://github.com/just1and0/React-Native-Paystack-WebView)
 
 🥂 Cheers!
