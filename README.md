@@ -9,13 +9,13 @@ My career ambition has always been to firstly take technology to its limits, and
 
 
 ⚡️ What I do:
-- Software Engineer
+- Software Engineer 👨🏻‍💻
 - Speaking at Conferences => Send me a [mail at](mailto:okechukwu0127@gmail.com) if you need me at your Conference.
 - Founder of many tech applications on various stores.
-- Technical Writer
-- Pro-active in nature
-- Play basketBall 
-- Play PS4 (FIFA)
+- Technical Trainer/Writer 🔖
+- Pro-active in nature 🔥
+- Play BasketBall 🏀 
+- Play PS4 (FIFA) 🎮
 
 
 📫 How to reach me:  
