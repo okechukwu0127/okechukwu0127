@@ -10,7 +10,7 @@ My career ambition has always been to firstly take technology to its limits, and
 
 ⚡️ What I do:
 - Software Engineer 👨🏻‍💻
-- Speaking at Conferences => Send me a [mail at](mailto:okechukwu0127@gmail.com) if you need me at your Conference.
+- Speaking at Conferences => Send me a [mail](mailto:okechukwu0127@gmail.com) if you need me at your Conference.
 - Founder of many tech applications on various stores.
 - Technical Trainer/Writer 🔖
 - Pro-active in nature 🔥
