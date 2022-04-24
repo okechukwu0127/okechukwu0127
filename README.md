@@ -10,12 +10,13 @@ My career ambition has always been to firstly take technology to its limits, and
 
 ⚡️ What I do:
 - Software Engineer 👨🏻‍💻
+- Blockchain Programer ₿
 - Speaking at Conferences => Send me a [mail](mailto:okechukwu0127@gmail.com) if you need me at your Conference.
-- Founder of many tech applications on various stores.
+- Founder of many mobile apps on various stores.
 - Technical Trainer/Writer 🔖
 - Pro-active in nature 🔥
 - Play BasketBall 🏀 
-- Play PS4 (FIFA) 🎮
+- Play PS4/5 (FIFA) 🎮
 
 
 📫 How to reach me:  
