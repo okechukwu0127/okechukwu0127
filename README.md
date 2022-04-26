@@ -11,10 +11,10 @@ My career ambition has always been to firstly take technology to its limits, and
 ⚡️ What I do:
 - Software Engineer 👨🏻‍💻
 - Blockchain Programer ₿
-- Speaking at Conferences => Send me a [mail](mailto:okechukwu0127@gmail.com) if you need me at your Conference.
-- Founder of many mobile apps on various stores.
+- Previledged to have deploid series of mobile apps to various stores. (Android and iOS)
 - Technical Trainer/Writer 🔖
 - Pro-active in nature 🔥
+- To Speak in your conference => Send me a [mail](mailto:okechukwu0127@gmail.com
 - Play BasketBall 🏀 
 - Play PS4/5 (FIFA) 🎮
 
@@ -26,5 +26,6 @@ My career ambition has always been to firstly take technology to its limits, and
 
 💎 Contributions: 
 - [React-native-Paystack](https://github.com/just1and0/React-Native-Paystack-WebView)
+- To mention a few
 
 🥂 Cheers!
