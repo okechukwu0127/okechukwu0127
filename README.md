@@ -14,7 +14,7 @@ My career ambition has always been to firstly take technology to its limits, and
 - Previledged to have deploid series of mobile apps to various stores. (Android and iOS)
 - Technical Trainer/Writer 🔖
 - Pro-active in nature 🔥
-- To Speak in your conference => Send me a [mail](mailto:okechukwu0127@gmail.com)
+- To Speak in your conference: Send me a [mail](mailto:okechukwu0127@gmail.com)
 - Play BasketBall 🏀 
 - Play PS4/5 (FIFA) 🎮
 
