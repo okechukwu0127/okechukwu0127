@@ -10,6 +10,7 @@ My career ambition has always been to firstly take technology to its limits, and
 
 ⚡️ What I do:
 - Software Engineer 👨🏻‍💻
+- Frontend Developer 💝
 - Blockchain Programer ₿
 - Previledged to have deploid series of mobile apps to various stores. (Android and iOS)
 - Technical Trainer/Writer 🔖
