@@ -5,7 +5,7 @@ I'm a Senior Software Engineer from Nigeria 🇳🇬 with a strong passion for b
 My career ambition has always been to firstly take technology to its limits, and secondly to work with people who are the best in their respective fields.
 
 
-💬 Ask me about: React-Native, TypeScript, JavaScript, Ethereum, SmartContract, BlockChain, ReactJs, NextJs, NodeJs, VueJs, Web3Js, Laravel, PHP, Lumen, AWS Cloud Computing, CI/CD, CodePush, TDD, Cypress, Jest, eLearning, eCommerce and Open Source to mention a few.
+💬 Ask me about: React-Native, TypeScript, JavaScript, Ethereum, SmartContract, BlockChain, Solidity, ReactJs, NextJs, NodeJs, VueJs, Web3Js, Laravel, PHP, Lumen, AWS Cloud Computing, CI/CD, CodePush, TDD, Cypress, Jest, eLearning, eCommerce and Open Source to mention a few.
 
 
 ⚡️ What I do:
