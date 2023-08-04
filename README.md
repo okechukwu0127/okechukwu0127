@@ -13,7 +13,7 @@ My career ambition has always been to firstly take technology to its limits, and
 - Mobile App Developer ☏
 - Frontend Developer 💝
 - Blockchain Programer ₿
-- Previledged to have deploid series of mobile apps to various stores. (Android and iOS)
+- Privileged to have deployed series of mobile apps to various stores. (Android and iOS)
 - Technical Trainer/Writer 🔖
 - Pro-active in nature 🔥
 - To speak in your conference: Send me a [mail](mailto:okechukwu0127@gmail.com)
