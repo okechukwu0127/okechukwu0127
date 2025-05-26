@@ -1,6 +1,6 @@
 # Hey Buddy 👋🏾
 
-I'm a Senior Software Engineer from Nigeria 🇳🇬 with a decade of experience. I have a strong passion for building scalable applications using Web, Mobile, API, Blockchain, Cloud Services technologies. A high graphical-frontend design expert, with the ability to support business systems to a professional level. 
+I'm a Senior Software Engineer from Nigeria 🇳🇬 basked in the UK, with a decade of experience. I have a strong passion for building scalable applications using Web, Mobile, API, Blockchain, Cloud Services technologies. A high graphical-frontend design expert, with the ability to support business systems to a professional level. 
 
 My career ambition has always been to firstly take technology to its limits, and secondly to work with people who are the best in their respective fields.
 
